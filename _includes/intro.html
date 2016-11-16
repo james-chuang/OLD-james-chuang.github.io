@@ -1,6 +1,6 @@
 {% if site.intro %}
     <div id="intro">
-        <div class="container">
+        <div class="container" style="max-width: 720px">
             <!---{% if site.profile_picture %}
                 <img id="intro-img" src="{{ site.profile_picture }}">
             {% endif %}-->
@@ -18,7 +18,7 @@
     </div>
 {% else %}
     <section class="intro">
-        <div class="container">
+        <div class="container" style="max-width: 720px">
             <h2 class="site-name">
                 {% if site.site_heading %}
                     {{ site.site_heading }}
