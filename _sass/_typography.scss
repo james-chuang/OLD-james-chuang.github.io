@@ -13,7 +13,7 @@
         line-height: $base-line-height;
     }
     h1, h2, h3, h4, h5, h6, dl {
-        margin: 1em 0;
+        margin: .5em 0;
     }
     code {
         //font-size: $base-font-size;
@@ -22,27 +22,28 @@
     .post-title {
         margin-top: 0.1em;
         font-size: 40px;
-        margin-bottom: $base-spacing;
+        //margin-bottom: $base-spacing;
+        margin-bottom: 10px;
         font-family: 'Montserrat';
         color: $accent-color;
     }
     h1 {
-        font-size: 35px;
+        font-size: 32px; //35px;
     }
     h2 {
-        font-size: 32px;
+        font-size: 29px; //32px;
     }
     h3 {
-        font-size: 29px;
+        font-size: 26px; //29px;
     }
     h4 {
-        font-size: 26px;
+        font-size: 23px; //26px;
     }
     h5 {
-        font-size: 23px;
+        font-size: 20px; //23px;
     }
     h6 {
-        font-size: 20px;
+        font-size: 18px; //20px;
     }
     p {
         font-size: 14px;
