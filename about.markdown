@@ -1,7 +1,7 @@
 ---
 layout: about
-title: accent
-author: Ankit Sultana
+title: about the author
+author: James Chuang
 permalink: /about
 ---
 
