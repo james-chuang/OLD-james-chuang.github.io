@@ -7,7 +7,8 @@ pre code {
   border-radius: 10px;
   font-family:  $code-font;
   padding: $base-spacing $base-spacing/10;
-  margin: $base-spacing;
+  //margin: $base-spacing;
+  margin: 0;
   @media(max-width: $break-small) {
       font-size: 10px;
   }
