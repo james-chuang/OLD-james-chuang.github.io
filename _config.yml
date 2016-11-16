@@ -1,12 +1,13 @@
 # User Settings | Edit there as per required
 
-title: Test blog, please ignore.
+title: deep dumpster
 url: "https://james-chuang.github.io/"
 baseurl: ""
 
 # This will show up at the top of index page
 site_heading: >
-    <span class="faded">willzyx ex machinae</span>
+    the deep dumpster
+#<span class="faded">the deep dumpster</span>
 
 email: your@email.com
 author: James Chuang
@@ -16,7 +17,7 @@ description: >
     A blog about learning statistics, data science, and machine learning.
 
 # This will what will show against &copy; in the footer
-copyright: ebosi
+copyright: the deep dumpster
 # Toggle your short bio, which will displayed on your index page
 # Just toggle it and run jekyll again to see
 intro: true         # Tip: Remove the span from site_heading if intro is set to true
@@ -24,8 +25,8 @@ intro: true         # Tip: Remove the span from site_heading if intro is set to 
 short_bio: >
     <ol>
       <li>I want to learn statistics/machine learning/data science.</li>
-      <li>It's said the best way to learn is to teach.</li>
-      <li>This is where I try to learn and teach. Results not guaranteed.</li>
+      <li>Some say the best way to learn is to teach.</li>
+      <li>This is my attempt to learn and teach.</li>
     </ol>
 permalink: /:title.html
 
