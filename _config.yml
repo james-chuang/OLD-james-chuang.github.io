@@ -23,11 +23,7 @@ copyright: the deep dumpster
 intro: true         # Tip: Remove the span from site_heading if intro is set to true
 # This will be displayed in your intro
 short_bio: >
-    <ol>
-      <li>I want to learn statistics/machine learning/data science.</li>
-      <li>Some say the best way to learn is to teach.</li>
-      <li>This is my attempt to learn and teach.</li>
-    </ol>
+    Where I log my attempts to learn statistics/machine learning/data science.
 permalink: /:title.html
 
 # Comments are powered by disqus
