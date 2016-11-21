@@ -1,6 +1,37 @@
 ---
 layout: default
 ---
+{% if site.intro %}
+    <div id="intro">
+        <div class="container" style="max-width: 720px">
+            <!---{% if site.profile_picture %}
+                <img id="intro-img" src="{{ site.profile_picture }}">
+            {% endif %}-->
+            <h2 style="text-align: center;">
+                {% if site.site_heading %}
+                    {{ site.site_heading }}
+                {% else %}
+                    {{ site.title }}
+                {% endif %}
+            </h2>
+        </div>
+    </div>
+{% else %}
+    <section class="intro">
+        <div class="container" style="max-width: 720px">
+            <h2 class="site-name">
+                {% if site.site_heading %}
+                    {{ site.site_heading }}
+                {% else %}
+                    {{ site.title }}
+                {% endif %}
+            </h2>
+        </div>
+    </section>
+{% endif %}
+
+
+
 
 <div class="content container">
     <div class="post-date">
