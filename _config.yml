@@ -7,6 +7,7 @@ baseurl: ""
 # This will show up at the top of index page
 site_heading: >
     <a href=https://james-chuang.github.io/>the deep dumpster</a>
+    
 #<span class="faded">the deep dumpster</span>
 
 email: your@email.com
