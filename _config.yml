@@ -10,12 +10,12 @@ site_heading: >
     
 #<span class="faded">the deep dumpster</span>
 
-email: your@email.com
+email: deep.dumpster@gmail.com
 author: James Chuang
 # This description will show up in google search results
 # (for index page) etc.
 description: >
-    A blog about learning statistics, data science, and machine learning.
+    A log of my attempts to learn statistics, data science, and machine learning.
 
 # This will what will show against &copy; in the footer
 copyright: <a href=https://james-chuang.github.io/>the deep dumpster</a>
