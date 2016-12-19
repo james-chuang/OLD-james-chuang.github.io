@@ -1,19 +1,19 @@
 Hello friend,
 
-It's a strange time in my life right now, though I guess the same is true for everyone these days. Three months ago I started treatment for social anxiety and depression. They've been with me for as long as I can remember, but over the last ten years things have progressed to the point where they completely control me.
+It's a strange time in my life right now --though, these days I guess the same is true for most people. Three months ago I started treatment for social anxiety and depression. They've been with me for as long as I can remember, and have almost completely controlled me for the last ten years.
 
-The most hollow feeling is being surrounded by friends or people you want to get to know and being paralyzed because your subconscious is screaming to run away and save yourself. When this happens over and over and over, it's only natural to start avoiding people. I tried to accept it and live while minimizing human interaction --after all, you're supposed to 'be yourself'--, and things were almost fine except for the inconvenient fact that the circuit in my brain for feeling loneliness works just fine.
+The most hollow feeling is being with friends or people you'd like to get to know and being paralyzed by your subconscious screaming at you to run and hide because it'd be better for everyone if you just disappeared. When this happens over and over and over, it's only natural to start avoiding people. I tried to accept it and live with minimal interaction --after all, you're supposed to 'be yourself', right?--, and I was almost fine except for the inconvenient fact that the circuit in my brain for feeling loneliness was perfectly functional.
 
-The cycle goes like this (for a python implementation, click here!):
+This is the cycle I got sucked into:
 
-1. Attempt normal social interaction to fight loneliness.
-2. This causes nothing but anxiety. Hate yourself and sink further into depression.
+1. Try to be with people to avoid loneliness.
+2. This causes nothing but anxiety. Hate yourself for failing at the most basic of human tasks. (Yes, I know most of the time I only ever failed in my head but that's exactly the problem...turns out I'm insane and my brain doesn't allow anything positive about me to be real.)
 3. Isolate yourself to avoid further anxiety.
 4. Feel lonely because you isolated yourself. Sink further into depression. Go to step 1.
 
-It's not sustainable. To save itself, my brain started shutting down. I gradually stopped being able to feel anything, which is liberating at first when all you've been feeling is loneliness and anxiety. But other systems started to shut down as well. Eventually my thinking slowed to where I had trouble holding coherent ideas in my head, and finishing a complete sentence took extreme effort.
+You will probably notice that this cycle doesn't seem very sustainable. To save itself, my brain started shutting down. I gradually stopped being able to feel anything, which is liberating at first when all you've been feeling is loneliness and anxiety. But other systems started to shut down as well. Eventually, my thinking slowed to where I'd sometimes be unable to finish a sentence because I couldn't quite hold on to a complete idea in my head.
 
-I self-medicated by running, up to a hundred miles a week. I didn't admit it to myself at the time, but instead of running because I enjoyed it like I used to, I was now doing it because it was the only way I could lift the mental fog for an hour or two each day. In retrospect, it's probably lucky I chose running to be addicted to. The two times in my life I've felt completely at peace were both when I was in the hospital hopped up on whatever morphine analog they gave me before surgery. I crave that sometimes, but opiates are a slippery slope...
+I self-medicated by running, up to a hundred miles a week. At the time I didn't admit it to myself, but instead of running because I enjoyed it like I used to, I was now doing it because it was the only way I could lift the mental fog for an hour or two each day. In retrospect, it's probably lucky I chose running to be addicted to. The two times in my life I've felt completely at peace were both when I was in the hospital hopped up on whatever morphine analog they gave me before surgery. I crave that sometimes, but opiates are a slippery slope...
 
 These changes happened so slowly that I didn't realize anything was wrong for the longest time. A few things happened to change this. I went on a hiking trip in Colorado. Surrounded by friends in the mountains, my brain even in its crippled state lit up for a brief instant with an unfamiliar feeling. Later I realized the feeling was something like happiness. Terrifying. How could I forget the feeling of happiness? Forget happiness, when was the last time I felt any emotion at all?
 
